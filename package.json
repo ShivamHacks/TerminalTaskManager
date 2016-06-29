@@ -1,0 +1,13 @@
+{
+  "name": "taskmanager",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "debug": "~2.2.0",
+    "moment": "^2.13.0"
+  }
+}
