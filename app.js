@@ -121,6 +121,7 @@ function log(line, type) {
   console.log(line[colors[type]]);
 }
 
+
 /*
 // http://stackoverflow.com/questions/15083548/convert-12-hour-hhmm-am-pm-to-24-hour-hhmm
 // http://jsfiddle.net/L2y2d/1/
